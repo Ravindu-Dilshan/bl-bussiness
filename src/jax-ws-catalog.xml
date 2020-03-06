@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://bl-data.herokuapp.com/DataService?wsdl" uri="wsdl/bl-data.herokuapp.com/DataService.wsdl"/>
+    <system systemId="http://bl-data.herokuapp.com:80/DataService?xsd=1" uri="wsdl/bl-data.herokuapp.com_80/DataService.xsd_1.xsd"/>
+</catalog>
